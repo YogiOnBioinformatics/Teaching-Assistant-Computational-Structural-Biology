@@ -1,4 +1,4 @@
-﻿# Teaching-Assistant-Computational-Structural-Biology
+﻿# Undergraduate Teaching Assistant (BIOSC1540 - Computational Structural Biology)
 
 **Introduction** 
 
