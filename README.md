@@ -7,9 +7,13 @@ Course schedule from experience as a selected Undergraduate Teaching Assistant a
 **Highlights** 
 
 ► Selected to facilitate teaching of Python, Bash, Machine Learning, protein structure/modeling, virtual small-molecule screening, molecular dynamics simulations, molecular visualization, and online resources for studying proteins and molecules to 40 students. 
+
 ► Surpassed expectation of accessibility by giving students personal phone number to text on-demand as issues arose. 
+
 ► Shaped course schedule, syllabus structure and co-wrote exams. 
+
 ► Mentored 6 students closely and improved their grades by an entire letter grade. 
+
 
 **Contact Information**
 
