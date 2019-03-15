@@ -1,8 +1,16 @@
-# Teaching-Assistant-Computational-Structural-Biology
+﻿# Teaching-Assistant-Computational-Structural-Biology
 
 **Introduction** 
 
 Course schedule from experience as a selected Undergraduate Teaching Assistant at the University of Pittsburgh course, BIOSC 1540 - Computational Structural Biology, taught by Dr. Jacob Durrant.
+
+
+**Files** 
+
+:scroll: `Spring 2018 Syllabus - Computational Proteomics.pdf`
+
+Shows course schedule to give more specific details on the course topics I had to master to be able to mentor students. 
+
 
 **Highlights** 
 
