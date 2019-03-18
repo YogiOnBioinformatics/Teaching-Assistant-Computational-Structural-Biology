@@ -14,7 +14,7 @@ Shows course schedule to give more specific details on the course topics I had t
 
 **Highlights** 
 
-► Selected to facilitate teaching of Python, Bash, Machine Learning, protein structure/modeling, virtual small-molecule screening, molecular dynamics simulations, molecular visualization, and online resources for studying proteins and molecules to 40 students. 
+► Selected as singular UTA to facilitate teaching of Python, Bash, Machine Learning, protein structure/modeling, virtual small-molecule screening, molecular dynamics simulations, molecular visualization, and online resources for studying proteins and molecules to 40 students. 
 
 ► Surpassed expectation of accessibility by giving students personal phone number to text on-demand as issues arose. 
 
