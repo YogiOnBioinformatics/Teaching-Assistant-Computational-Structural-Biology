@@ -14,13 +14,13 @@ Shows course schedule to give more specific details on the course topics I had t
 
 **Highlights** 
 
-► Selected as singular UTA to facilitate teaching of Python, Bash, Machine Learning, protein structure/modeling, virtual small-molecule screening, molecular dynamics simulations, molecular visualization, and online resources for studying proteins and molecules to 40 students. 
+► Chosen as sole TA to facilitate teaching of Python, Bash, protein structure/modeling, and molecular dynamics simulations to 30 students. 
 
-► Surpassed expectation of accessibility by giving students personal phone number to text on-demand as issues arose. 
+► Co-devised 2 exams and contributed content to course syllabus.
 
-► Shaped course schedule, syllabus structure and co-wrote exams. 
+► Mentored 3 students closely leading to a full letter-grade increase in final score (“B-” to “A-”).
 
-► Mentored 6 students closely and improved their grades by an entire letter grade. 
+► Awarded Exceptional Honors Completion.
 
 
 **Contact Information**
